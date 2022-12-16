@@ -1,0 +1,235 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+
+
+
+
+/* nabar */
+.navbar img {
+    width: 50px;
+    height: 50px;
+}
+
+.navbar a {
+    margin-left: 20px;
+}
+
+/* /navbar */
+
+/* corusal */
+
+
+
+/* /corusal */
+
+/* contetnt1 */
+.content1 h3,
+p {
+    padding-right: 100px;
+    padding-top: 50px;
+}
+
+.content1 img {
+    width: 500px;
+}
+
+/* content1 */
+
+/* contetnt2 */
+.content2 h3,
+p {
+
+    padding-top: 50px;
+}
+
+.content2 img {
+    width: 450px;
+}
+
+/* content2 */
+
+/* content3 */
+.content3 h5,
+p {
+    text-align: left;
+}
+
+.content3 img {
+    width: 300px;
+    height: 300px;
+}
+
+.content3 h4 {
+    margin-top: 20px;
+}
+
+/* /content3 */
+
+/* footer */
+footer p {
+    text-align: center;
+    padding-left: 100px;
+}
+
+/* footer */
+
+.content1 h3,
+.content2 h3,
+.content3 h5 {
+    text-align: center;
+}
+
+
+
+
+.navbar h2 {
+    margin-top: 10px;
+}
+
+body img {
+    border-radius: 15px;
+}
+
+
+/*  ABOUTTT */
+
+
+.content4 img {
+    width: 300px;
+    height: 300px;
+}
